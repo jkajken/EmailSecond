@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmailSecond</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="contact_form">Contact form</string>
+    <string name="email_address">Email address</string>
+    <string name="theme">Theme</string>
+</resources>
